@@ -15,6 +15,7 @@ public class TimeText
     private BitmapFont font;
     private String text;
 
+
     public TimeText()
     {
         spriteBatch = new SpriteBatch();
